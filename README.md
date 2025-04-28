@@ -19,3 +19,7 @@ Witness the power of AI to create stunning cinematic visuals! We share captivati
 	    <img src="https://raw.githubusercontent.com/Phlogix/Social-Icons/main/SVG/Colorful/Twitter.svg" alt="X" width="65" height="65">
 	</a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phlogix&style=for-the-badge" alt="Profile views" />
+</p>
