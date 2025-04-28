@@ -15,7 +15,7 @@ Witness the power of AI to create stunning cinematic visuals! We share captivati
 	<a href="https://www.facebook.com/Phlogix" target="_blank">
 	    <img src="https://raw.githubusercontent.com/Phlogix/Social-Icons/main/SVG/Colorful/Facebook.svg" alt="Facebook" width="65" height="65">
 	</a>
-	<a href="https://www.facebook.com/Phlogix" target="_blank">
+	<a href="https://x.com/phlogix" target="_blank">
 	    <img src="https://raw.githubusercontent.com/Phlogix/Social-Icons/main/SVG/Colorful/Twitter.svg" alt="X" width="65" height="65">
 	</a>
 </p>
