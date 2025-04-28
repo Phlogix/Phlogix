@@ -1,6 +1,10 @@
 # About Us
 Witness the power of AI to create stunning cinematic visuals! We share captivating shorts and long-form videos, exploring a wide range of genres and styles. We're constantly experimenting and pushing the boundaries of what's possible. 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phlogix&style=for-the-badge" alt="Profile views" />
+</p>
+
 ## ✨ Our Social Media Profiles
 <p align="center">
 	<a href="http://youtube.com/@Phlogix" target="_blank">
@@ -20,6 +24,4 @@ Witness the power of AI to create stunning cinematic visuals! We share captivati
 	</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phlogix&style=for-the-badge" alt="Profile views" />
-</p>
+
